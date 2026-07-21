@@ -9,7 +9,22 @@
       "Bash(git push *)",
       "Bash(git commit -m ' *)",
       "Bash(git ls-remote *)",
-      "Bash(echo \"EXIT:$?\")"
+      "Bash(echo \"EXIT:$?\")",
+      "Bash(node -e ' *)",
+      "Bash(python3 -c ' *)",
+      "Skill(run)",
+      "Skill(run:*)",
+      "Bash(chromium-cli --help)",
+      "Bash(curl -s http://localhost:8791/styles.css)",
+      "Bash(curl -s \"https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Cormorant+Garamond:ital,wght@1,500&family=Inter:wght@300;400;500;600;700&display=swap\" -A \"Mozilla/5.0\")",
+      "Bash(python -c ' *)",
+      "Bash('/c/Program Files/Google/Chrome/Application/chrome.exe' --version)",
+      "Bash(pkill -f \"http.server 8791\")",
+      "Bash(rm -rf \"/c/Users/TARCSI~1/AppData/Local/Temp/claude/chrome-\"*)",
+      "Bash(pkill -f \"http.server 8792\")",
+      "Bash(rm -rf \"/c/Users/TARCSI~1/AppData/Local/Temp/claude/chrome-svg\"*)",
+      "Bash(pkill -f \"http.server 8793\")",
+      "Bash(rm -rf \"/c/Users/TARCSI~1/AppData/Local/Temp/claude/chrome-ig\"*)"
     ]
   }
 }
